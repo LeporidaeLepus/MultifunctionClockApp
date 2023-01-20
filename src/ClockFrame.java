@@ -1,21 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package ClockApp;
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JOptionPane;
 
 
-
-
-/**
- *
- * @author HP
- */
 public class ClockFrame extends javax.swing.JFrame {
     int alarmNum = 0;           //添加的闹钟数
     int cdNum = 0;              //添加的倒计时数
@@ -459,3 +446,4 @@ public class ClockFrame extends javax.swing.JFrame {
 
 
 }
+
